@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, sou a Andréia Antunes / Hi, I'm Andréia Antunes
+# 👋 Olá, sou a Andréia Fagundes / Hi, I'm Andréia Fagundes
 
 ### 🩺 Cirurgiã-Dentista | 💻 Desenvolvedora Front-End & Analista de Dados
 *Montes Claros - MG, Brasil*
